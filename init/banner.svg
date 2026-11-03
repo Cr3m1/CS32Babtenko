@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180">
+  <rect width="720" height="180" rx="18" fill="#0f172a"/>
+  <rect x="24" y="24" width="8" height="132" rx="4" fill="#38bdf8"/>
+  <text x="52" y="78" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="32">Лабораторні роботи</text>
+  <text x="52" y="122" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="20">Python · Markdown · Visual Studio Code</text>
+</svg>
